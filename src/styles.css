@@ -20,6 +20,16 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
+
+.footer-container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 50px;
+  border: 1px solid steelblue;
+  padding: 30px;
+  border-radius: 5px;
+}
 .btn {
   display: inline-block;
   background: #000;
