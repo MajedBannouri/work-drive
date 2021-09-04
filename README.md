@@ -13,3 +13,13 @@ A hello angular project to learn more about how angular works . 💁‍♂️
 - Angular HTTP Client
 - Angular Router
 - Limiting Component to Route
+
+## Scripts
+**server**
+
+    npm run server 
+
+**frontend**
+
+    ng serve
+
